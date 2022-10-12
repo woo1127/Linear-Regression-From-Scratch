@@ -12,7 +12,7 @@
 
 ### Compute Gradient of Cost
 ### $\frac{\partial J}{\partial \vec{w}} = \frac{1}{m} \vec{x}^T \cdot (f_{\vec{w},b}(\vec{x}) - y)$
-### $\frac{\partial J}{\partial \vec{w}} = \frac{1}{m} (f_{\vec{w},b}(\vec{x}) - y)$
+### $\frac{\partial J}{\partial b} = \frac{1}{m} (f_{\vec{w},b}(\vec{x}) - y)$
 
 <br/>
 
