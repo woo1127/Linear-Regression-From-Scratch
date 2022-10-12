@@ -1,1 +1,1 @@
-# Linear-Regression-From-Scratch
+## Multiple Linear Regression From Scratch
