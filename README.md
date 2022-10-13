@@ -1,7 +1,7 @@
 ## Multiple Linear Regression From Scratch
 
 ### Compute Prediction
-### $f_{\vec{w},b}(\vec{x}) = \vec{w} \cdot \vec{x} + b$
+### $f_{\vec{w},b}(X) = \vec{w} \cdot X + b$
 
 <br/>
 
@@ -11,8 +11,8 @@
 <br/>
 
 ### Compute Gradient of Cost
-### $\frac{\partial J}{\partial \vec{w}} = \frac{1}{m} \vec{x}^T \cdot (f_{\vec{w},b}(\vec{x}) - y)$
-### $\frac{\partial J}{\partial b} = \frac{1}{m} (f_{\vec{w},b}(\vec{x}) - y)$
+### $\frac{\partial J}{\partial \vec{w}} = \frac{1}{m} X^T \cdot (f_{\vec{w},b}(X) - y)$
+### $\frac{\partial J}{\partial b} = \frac{1}{m} (f_{\vec{w},b}(X) - y)$
 
 <br/>
 
